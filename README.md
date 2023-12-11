@@ -1,3 +1,6 @@
+ThinkTesting is a website created using React to teach users about Manual and Automated Testing. This was completed for my Independent Study Class, Fall 2023.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
